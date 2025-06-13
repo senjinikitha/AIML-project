@@ -1,2 +1,2 @@
 # AIML-project
-AIML project description
+Spotify songs recommendation 
